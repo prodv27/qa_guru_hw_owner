@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class GetUsersTests {
+public class UsersTests {
 
     static Integer userId;
     final String
